@@ -1,19 +1,19 @@
 # Vendor Risk Scorecard
 
-Score and monitor vendor risk across security, finance and compliance. Part of the **Zion Tech Group AI App Network**.
+Score and monitor vendor risk across security, finance and compliance signals. Part of the Zion Tech Group App Network.
 
-🌐 **Live app:** https://ziontechgroup.com/vendor-risk-scorecard/
-
-## Features
-- Vendor risk scoring across security, financial and compliance dimensions
-- Continuous monitoring and alerts
-- Assessment templates and evidence tracking
-- Portfolio-level risk dashboards
-
-## 🔗 Zion App Network
-- 🏠 [Zion Tech Group](https://ziontechgroup.com/) · [App Network Hub](https://github.com/Zion-support/zion-app-network)
-- Related apps: [Zion AI Vendor Risk](https://github.com/Zion-support/zion-ai-vendor-risk) · [Vendor Matrix Compare](https://github.com/Zion-support/vendor-matrix-compare) · [Zion Vendor Lock-in Score](https://github.com/Zion-support/zion-vendor-lockin-score)
-- 💼 [Plans & Pricing](https://ziontechgroup.com/plans/) · [Free AI Discovery](https://ziontechgroup.com/discovery/)
+- 🌐 Live app: https://ziontechgroup.com/vendor-risk-scorecard/
+- 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
+- 📞 Discovery call: https://ziontechgroup.com/discovery/
+- 🧰 All tools: https://ziontechgroup.com/tools/
 
 ---
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+🗂️ [Master directory — Zion App Network](https://github.com/Zion-support/zion-app-network) · Live hub: https://ziontechgroup.com/zion-app-network/ · 💼 Plans: https://ziontechgroup.com/en/plans/ · 📞 Discovery call: https://ziontechgroup.com/discovery/ · 🧰 All tools: https://ziontechgroup.com/tools/
+
+**Related apps:**
+- [zion-ai-vendor-risk](https://github.com/Zion-support/zion-ai-vendor-risk) — https://ziontechgroup.com/zion-ai-vendor-risk/
+- [ai-vendor-comparator](https://github.com/Zion-support/ai-vendor-comparator) — https://ziontechgroup.com/ai-vendor-comparator/
+- [cybersecurity-risk-assessment](https://github.com/Zion-support/cybersecurity-risk-assessment) — https://ziontechgroup.com/cybersecurity-risk-assessment/
+- [vendor-matrix-compare](https://github.com/Zion-support/vendor-matrix-compare) — https://ziontechgroup.com/vendor-matrix-compare/
+
+© 2026 Zion Tech Group · https://ziontechgroup.com/
