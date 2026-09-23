@@ -1,25 +1,19 @@
 # Vendor Risk Scorecard
 
-> Score and monitor vendor risk across security, finance and compliance
+Score and monitor vendor risk across security, finance and compliance. Part of the **Zion Tech Group AI App Network**.
 
-Score and monitor vendor risk across security, finance and compliance.
-
-**Live:** https://ziontechgroup.com/vendor-risk-scorecard/  
-**Network hub:** https://github.com/Zion-support/zion-app-network
+🌐 **Live app:** https://ziontechgroup.com/vendor-risk-scorecard/
 
 ## Features
-- Automated vendor risk scoring from questionnaires and public signals
-- Continuous monitoring for breaches, outages and sanctions
-- Portfolio heatmap with tiered vendor reviews
-- Remediation tracking and renewal risk alerts
+- Vendor risk scoring across security, financial and compliance dimensions
+- Continuous monitoring and alerts
+- Assessment templates and evidence tracking
+- Portfolio-level risk dashboards
 
-## Part of the Zion AI App Network
-- [App Network Directory](https://github.com/Zion-support/zion-app-network) — https://ziontechgroup.com/zion-app-network/
-- [AI Sales Email Copilot](https://github.com/Zion-support/ai-sales-email-copilot) — https://ziontechgroup.com/ai-sales-email-copilot/
-- [Compliance Policy Writer](https://github.com/Zion-support/compliance-policy-writer) — https://ziontechgroup.com/compliance-policy-writer/
-- [Uptime Status Hub](https://github.com/Zion-support/uptime-status-hub) — https://ziontechgroup.com/uptime-status-hub/
-- [SEO Content Optimizer](https://github.com/Zion-support/seo-content-optimizer) — https://ziontechgroup.com/seo-content-optimizer/
-- [Knowledge Base Copilot](https://github.com/Zion-support/knowledge-base-copilot) — https://ziontechgroup.com/knowledge-base-copilot/
+## 🔗 Zion App Network
+- 🏠 [Zion Tech Group](https://ziontechgroup.com/) · [App Network Hub](https://github.com/Zion-support/zion-app-network)
+- Related apps: [Zion AI Vendor Risk](https://github.com/Zion-support/zion-ai-vendor-risk) · [Vendor Matrix Compare](https://github.com/Zion-support/vendor-matrix-compare) · [Zion Vendor Lock-in Score](https://github.com/Zion-support/zion-vendor-lockin-score)
+- 💼 [Plans & Pricing](https://ziontechgroup.com/plans/) · [Free AI Discovery](https://ziontechgroup.com/discovery/)
 
 ---
-© 2026 Zion Tech Group — https://ziontechgroup.com
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
